@@ -42,6 +42,7 @@ axiosClient.interceptors.response.use(
   },
 
   function (error) {
+    localStorage.removeItem('loginClient');
     return Promise.reject(error);
   },
 );
