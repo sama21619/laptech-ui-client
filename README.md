@@ -5,7 +5,7 @@
 - Name: **Laptech UI Client System**
 - Author: [Quang Sang Nguyễn](https://www.facebook.com/quangsang2001)
 - Collaborator: [Nhật Phi Võ](https://www.facebook.com/fi.fine.21/)
-- Main tech: **ReactJS**, **Redux**, **Tailwind**, **Material UI**
+- Main tech: **ReactJS**, **Redux toolkit**, **Tailwind**, **Material UI**
 
 ### Build and run project
 
